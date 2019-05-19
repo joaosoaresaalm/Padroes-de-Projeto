@@ -1,2 +1,0 @@
-# Padroes-de-Projeto
-Exercícios
